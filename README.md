@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-    <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Banner.jpg" alt="Banner.jpg">
+    <img src="https://github.com/ajitii/Banking_Data_Financial-Insights/blob/main/Banner-01.png" alt="Banner.jpg">
 </p>
 
 ## Project Overview
@@ -49,22 +49,13 @@ This project leverages Power BI to provide in-depth financial insights for banki
 - **Strategic Decision-Making**: Data-driven insights enabled informed strategic decisions, improving overall performance and customer satisfaction.
 
 <p align="center">
-    <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Power%20Bi%20Dashboard%20Image.png" alt="Power Bi Dashboard Image">
+    <img src="https://github.com/ajitii/Banking_Data_Financial-Insights/blob/main/Ajiti_Shrivastava_dashboard.png" alt="Power Bi Dashboard Image">
 </p>
 
 ## Project Link
-[Access the project files and dashboard](https://drive.google.com/drive/folders/12JehfBqbzBIicYZ1lYkcQi65iE3BKKoH?usp=sharing)
+[Access the project files and dashboard](https://drive.google.com/drive/folders/1RpbNzV0Dk65BkXmLnn7gCQOixq3TGx6k?usp=share_link)
 
 ## Conclusion
 This project demonstrates the power of data analysis and visualization in transforming raw banking data into actionable insights. By leveraging Power BI and advanced analytics, banking institutions can optimize their services, manage risks more effectively, and enhance customer satisfaction.
 
 ---
-
-Feel free to explore the project files and interactive dashboard via the provided link. If you have any questions or feedback, please reach out!
-
-## Contact
-For any inquiries or support, please contact at meabhaykr@gmail.com
-
----
-
-Happy analyzing!
